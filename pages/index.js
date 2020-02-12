@@ -1,6 +1,5 @@
-import Link from "next/link";
 import Nav from "../components/nav";
-import Layout from "./Layout";
+import Layout from "../components/Layout";
 
 export default () => (
   <div>

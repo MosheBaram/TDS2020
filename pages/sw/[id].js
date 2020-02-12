@@ -1,5 +1,6 @@
 import Head from "../../components/head";
 import Nav from "../../components/nav";
+import fetch from "isomorphic-unfetch";
 
 const sw = ({ character }) => {
   return (
