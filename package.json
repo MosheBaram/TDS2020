@@ -1,5 +1,6 @@
 {
-  "name": "create-next-example-app",
+  "name": "TDS2020",
+  "license": "MIT",
   "scripts": {
     "dev": "next",
     "build": "next build",
